@@ -8,7 +8,7 @@ int largest(int *, int);
 
 int main(void)
 {
-	int s[N]={92,3754,1584,22,34,89374,234,156,56,6};
+	int s[N]={92,374,1584,22,34,89374,234,156,56,6};
 	int max;
 
 	printf("\n\nYour set of integers is:\n");
