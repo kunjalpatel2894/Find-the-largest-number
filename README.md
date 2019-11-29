@@ -33,5 +33,5 @@ int largest(int *set, int N_s)
 			large = set[i];
 		}
 	}
-	return large; //returns the largest number//
+	return large; //returns the largest numbering loop//
 }
