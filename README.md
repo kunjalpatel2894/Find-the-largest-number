@@ -1,7 +1,7 @@
 # Find-the-largest-number
 #include<stdio.h> 
 
-#define	N	10
+#define	N 10
 
 // function prototype
 int largest(int *, int);
