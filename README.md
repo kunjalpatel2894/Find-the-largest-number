@@ -7,7 +7,7 @@
 int largest(int *, int);
 
 int main(void)
-{
+{ 
 	int s[N]={92,374,1584,22,34,89374,234,156,56,6};
 	int max;
 
